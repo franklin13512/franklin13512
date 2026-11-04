@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align="center"> <img src="https://metrics.lecoq.io/franklin13512?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
 **franklin13512/franklin13512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
